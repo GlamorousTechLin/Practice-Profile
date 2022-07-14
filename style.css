@@ -1,0 +1,89 @@
+body {
+    background-image: linear-gradient(60deg,#000000, #000000, #33ccbb);
+    border: 12px double #33ccbb;
+    border-radius: 20px;
+    
+}
+h1, h2, h3 {
+    color: #33ccbb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h2 {
+    margin-right: 350px;
+
+}
+p {
+    color: white;
+    text-align: center;
+    border: 8px double #33ccbb;
+    border-radius: 30px;
+    width: 300px;
+    margin: auto;
+    padding: 30px;
+    font-family: Tahoma;
+}
+span {
+    color: yellow;
+}
+em {
+    color: white;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 240px;
+    border: 8px double #33ccbb;
+    border-radius: 30%;
+}
+li {
+    margin-left: 30%;
+    margin-right: auto;
+    font-family: Tahoma;
+    color: white;
+    
+}
+a {
+    color: #33ccbb;
+    font-family: Tahoma;
+    margin: auto;
+    width: 100px;
+    display: block;
+    text-align: center;
+}
+ul, ol {
+    border: 8px double #33ccbb;
+    border-radius: 30px;
+    width: 300px;
+    margin: auto;
+    padding: 30px;
+    font-family: Tahoma;
+}
+#bio {
+    float: left;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+#about {
+    margin-left: 200px;
+    margin-top: 60px;
+}
+#netflix {
+    margin-left: 200px;
+    margin-top: 40px;
+}
+#music {
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.text-center {
+    margin-left: 350px
+}
+#contact {
+    margin-left: 200px
+}
+a:hover {
+    color: fuchsia;
+}
+
